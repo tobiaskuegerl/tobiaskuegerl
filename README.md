@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hey there! I'm Tobias</h2>
 
-<!--
-**tobiaskuegerl/tobiaskuegerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 💼 &nbsp; Working as a application developer apprentice a industrial automation company located in austria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C# | Node.js
+- 🌐 &nbsp; HTML | CSS | JavaScript | Vue.js
+- 🛢 &nbsp; Postgresql | SQLite
+
+<br/>
+
+![https://www.codewars.com/users/kamto/badges/small](https://www.codewars.com/users/kamto/badges/small)
+<br/>
+[![tobiaskuegerl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobiaskuegerl&show_icons=true)](https://github.com/tobiaskuegerl)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:tobikg919+github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tobikg919@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
