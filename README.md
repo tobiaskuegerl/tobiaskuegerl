@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as a application developer apprentice a industrial automation company located in austria.
+- 💼 &nbsp; Working as an application developer apprentice a industrial automation company located in austria.
 
 <h3>🛠 Tech Stack</h3>
 
