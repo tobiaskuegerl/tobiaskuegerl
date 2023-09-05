@@ -6,7 +6,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# | Node.js
+- 💻 &nbsp; Python | C# | Node.js | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | Vue.js
 - 🛢 &nbsp; Postgresql | SQLite
 
